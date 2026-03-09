@@ -16,13 +16,7 @@ A simple and responsive Restaurant Landing Page built using HTML and CSS.
 * HTML
 * CSS
 
-## Project Structure
 
-restaurant-landing-page
-│
-├── index.html
-├── style.css
-└── images/
 
 ## Purpose
 
