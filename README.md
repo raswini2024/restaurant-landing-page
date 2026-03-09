@@ -22,7 +22,3 @@ A simple and responsive Restaurant Landing Page built using HTML and CSS.
 
 This project was created to practice frontend web development using HTML and CSS.
 
-## Author
-
-Asjo
-# restaurant-landing-page
